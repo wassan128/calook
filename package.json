@@ -1,0 +1,23 @@
+{
+  "name": "calook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wassan128/calook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wassan128/calook/issues"
+  },
+  "homepage": "https://github.com/wassan128/calook#readme",
+  "devDependencies": {
+    "electron": "^6.0.0"
+  }
+}
